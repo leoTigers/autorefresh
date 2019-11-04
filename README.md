@@ -5,7 +5,9 @@ Offre des possibilités de navigation parmi les derniers rafraichissements, ains
 
 # Comment installer 
 Cliquer sur le bouton "Clone or download" puis "download Zip"
+
 Extraire le fichier .zip dans le dossier de votre projet.
+
 Ouvrir le fichier index.html dans votre navigateur. En général un simple double clic suffit.
 
 # Un soucis ?
